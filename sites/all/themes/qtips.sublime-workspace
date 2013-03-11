@@ -1,0 +1,404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"second",
+				"secondary-dark"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"synta",
+				"Set Syntax: CSS"
+			],
+			[
+				"per",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ihitge/Sites/qtips/sites/all/themes/qtips/templates/node.tpl.php",
+		"/Users/ihitge/Sites/qtips/sites/all/themes/qtips/templates/page.tpl.php",
+		"/Users/ihitge/Sites/qtips/sites/all/themes/qtips/css/style.less",
+		"/Users/ihitge/Sites/qtips/sites/all/themes/qtips/css/style.css",
+		"/Users/ihitge/Sites/qtips/sites/all/themes/qtips/templates/html.tpl.php",
+		"/Users/ihitge/Sites/surveytube/sites/all/themes/surveytube/css/style.less",
+		"/Users/ihitge/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ihitge/Sites/surveytube/sites/all/themes/surveytube/templates/page.tpl.php",
+		"/Users/ihitge/Sites/surveytube/sites/all/themes/surveytube/templates/partner-form-element.tpl.php",
+		"/Users/ihitge/Sites/surveytube/sites/all/themes/surveytube/templates/node-webform-page-number-1.tpl.php",
+		"/Users/ihitge/Sites/surveyfinder/sites/all/themes/surveyfinder/js/jquery.bgiframe.min.js",
+		"/Users/ihitge/Dropbox/Resources/Code_Library/less-snippets.css",
+		"/Users/ihitge/Sites/qtips/sites/all/themes/qtips/template.php",
+		"/Users/ihitge/Sites/qtips/sites/all/themes/qtips/js/less.js",
+		"/Users/ihitge/Sites/moverr/sites/all/themes/moverr/css/style.less",
+		"/Users/ihitge/Sites/moverr/sites/all/themes/moverr/template.php",
+		"/Users/ihitge/Sites/moverr/sites/all/themes/moverr/templates/page.tpl.php",
+		"/Users/ihitge/Sites/surveyfinder/sites/all/themes/surveyfinder/js/script.js",
+		"/Users/ihitge/Sites/surveyfinder/sites/all/themes/surveyfinder/css/style.less",
+		"/Users/ihitge/Sites/surveyfinder/sites/all/themes/surveyfinder/templates/node-webform-page-number-2.tpl.php",
+		"/Users/ihitge/Sites/surveyfinder/sites/all/themes/surveyfinder/templates/node-webform-page-number-1.tpl.php",
+		"/Users/ihitge/Sites/surveyfinder/sites/all/themes/surveyfinder/templates/node-webform-page-number-3.tpl.php",
+		"/Users/ihitge/Sites/surveyfinder/sites/all/themes/surveyfinder/templates/partner-form-element.tpl.php",
+		"/Users/ihitge/Sites/surveyfinder/sites/all/themes/surveyfinder/templates/page.tpl.php",
+		"/Users/ihitge/Sites/surveyfinder/sites/all/themes/surveyfinder/surveyfinder.info",
+		"/Users/ihitge/Sites/surveyfinder/sites/all/themes/surveyfinder/js/jquery.bxSlider.js",
+		"/Users/ihitge/Desktop/bx-slider",
+		"/Users/ihitge/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ihitge/Sites/surveyfinder/sites/all/themes/surveyfinder/css/not-in-use-style.css",
+		"/Users/ihitge/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/ihitge/Library/Application Support/Sublime Text 2/Packages/User/LESS.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"span.question-number",
+			"net",
+			"welcome",
+			"welcomde",
+			"brands",
+			"brands.",
+			"min-height",
+			"compani",
+			"#companies_wrapper\n\n#companie",
+			"#companies_wrapper\n\n#companie\\",
+			"#companies_wrapper\n\n#companie",
+			"#companies_wrapper\n\n#companies",
+			"#companies_wrapper\n\n#companies_wrapper",
+			".webform-page-2 .form-submit",
+			"#companies_wrapper",
+			".border",
+			"webform-page-number-2",
+			"#companies_wrapper",
+			".company-wrapper",
+			"wrapper",
+			".review",
+			"review",
+			"thanks",
+			"info",
+			".company-in",
+			".company",
+			"company_reviews",
+			"red",
+			"company_info",
+			"review",
+			"company_info",
+			"#webform-component-steps",
+			"secondary",
+			".join",
+			".join\n.join",
+			".webform-page-2 .form-submit",
+			"dash",
+			"wrapper",
+			"rewards",
+			"testimonials",
+			"test",
+			"submit",
+			"join",
+			"header",
+			"contact",
+			"safet",
+			"main-h",
+			"heading",
+			"headline",
+			"submit",
+			"safet",
+			"secure",
+			"text",
+			"secure-text",
+			"secure",
+			"proces",
+			"net",
+			"page",
+			".border",
+			".main",
+			"arrow-box",
+			"proces",
+			"#contact",
+			"contact-information",
+			"contact-in",
+			"header",
+			"HEADING",
+			"process",
+			"heading",
+			"inner-2",
+			"info",
+			"additional-text",
+			"#F2C48D",
+			"proces\nprocess",
+			"proces\nproces",
+			"body",
+			"header",
+			"inner",
+			"border-bottom: 1px solid @secondary-2;\nborder-bottom: 1px solid @secondary-2",
+			"dash\n\n.dash",
+			"2px solid @secondary-4",
+			"partner-form\n\n.partner-form",
+			"partner-form\n\npartner-form",
+			"partner-form\n\npartner-formn",
+			"partner-form",
+			"partner-el",
+			"webform-partner-el",
+			"2px solid",
+			"#webform-component\n\n\n#webform\n",
+			"#webform-component-steps-final-2\n#webform-component-steps-final-2",
+			"steps\n\nstep",
+			".partner-form",
+			"#webform-component-final-step h2\npartner-for",
+			"#webform-component-final-step h2\npartner-for,",
+			"#webform-component-final-step h2\npartner-element",
+			"#webform-component-final-step h2\npartner-el",
+			"#webform-component-final-step h2\npartner-le",
+			"header",
+			"heading",
+			".border",
+			"form-box",
+			"form",
+			"net",
+			"inner-2",
+			"arrow-box",
+			"arrow",
+			"process",
+			".border",
+			"addition",
+			"addi",
+			".additional-text",
+			"heading",
+			"headl",
+			"secondary",
+			"par",
+			"parne",
+			"quick",
+			"h1",
+			"main-heading",
+			"h1",
+			"heaer",
+			"inner",
+			"f4\n\nf4",
+			"inner",
+			"header",
+			"branding",
+			"BRANDING",
+			"LOGO"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SurveyTube"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"page",
+				"templates/page.tpl.php"
+			],
+			[
+				"",
+				"template.php"
+			],
+			[
+				"sc",
+				"js/script.js"
+			],
+			[
+				"les",
+				"css/style.less"
+			],
+			[
+				".js",
+				"js/script.js"
+			],
+			[
+				"less",
+				"css/style.less"
+			],
+			[
+				"part",
+				"templates/partner-form-element.tpl.php"
+			],
+			[
+				"info",
+				"surveyfinder.info"
+			],
+			[
+				".info",
+				"surveyfinder.info"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true
+}

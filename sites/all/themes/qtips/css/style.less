@@ -1,0 +1,255 @@
+/*TODO
+- Sort out inline-block ie issue for porfolio list
+- Build in ie hack for svg support or use modernizr http://css-tricks.com/using-svg/?utm_source=Responsive+Design+Weekly&utm_campaign=f7282218b5-Responsive_Design_Weekly_047&utm_medium=email
+*/
+
+
+/* ========== Colours =========== */
+
+@black: #000;
+@gray: #3E454C;
+@gray-light: #ECEAEA;
+@white: #FFF;
+@blue: #2185C5;
+@blue-light: #7ECEFD;
+@beige: #FFF6E5;
+@pink: #FF7F66;
+
+
+/* ==================== Less Helper Classes ==========================*/
+
+.margin-bottom {
+	margin-bottom: 0.5em;
+}
+
+.margin-top {
+  margin-top: 0.5em;
+}
+
+.border {
+  border: 1px solid @gray-light;
+}
+
+.inline-block {
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+}
+
+.hidden {
+  display: none;       // Hides From User
+  visibility: hidden; //  Hides From Screenreader
+}
+
+
+/* ============= Document Styles start here ================*/
+
+body {
+  font-style: normal;
+  font-weight: 400;
+  font: 1.2em/1.6 "ff-tisa-web-pro", sans-serif;
+  color: @gray;
+  //background: @beige;
+}
+
+.container-fluid {
+  //background:@blue;
+}
+
+.main-container {
+  //max-width: 960px;
+  max-width: 1200px;
+  margin: 0 auto !important;
+  position: relative;
+}
+
+a {
+  color: @blue;
+}
+
+li {line-height: normal;}
+
+h2 {
+  font-family: "ff-tisa-web-pro",serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+#header {
+  background: @beige;
+  padding: 15px;
+  margin-bottom: 1em;
+}
+
+.my-logo {
+  width: 100px;
+  height: 100px;
+  background: @beige url(../images/logo.svg) no-repeat;
+  background-size: 100px 100px;
+}
+
+.front {
+  //background: url(../images/temp-back.jpg) no-repeat;
+  //background-size: 100%;
+}
+
+.main-heading {
+  font-family: "alternate-gothic-no-1-d",sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+  font-size: 8em;
+  margin-top: 0.5em;
+  color: @blue-light;
+}
+
+.what-i-do {
+  margin: 3em 0 0 0;
+}
+
+
+
+//=====================================================================THIS CONTROLS THE NAVIGATION
+
+ul.tabs.primary {
+  font-size: 0.6em;
+  border: none;
+  float: right;
+
+  a {background: @gray-light;}
+}
+
+.with-primary {
+  font-size: 0.8em;
+  position: absolute;
+  top:0px;
+  right:0px;
+
+  a:visited {
+    color: @gray;
+  }
+
+  a:active {
+    color: @blue;
+  }
+
+  ul {
+    float: right;
+  }
+
+  li {
+    display:inline;
+    margin: 0 0.5em 0;
+    clear: both;
+  }
+}
+
+//=====================================================================THIS CONTROLS THE RECENT PROJECT OVERVIEW LIST
+
+.project-list {
+  //position: relative;
+
+.views-field-field-type-of-work {
+    font-size: 0.7em !important;
+    display:block;
+    font-family: "ff-tisa-web-pro",serif;
+    font-size: 1em;
+    clear:both;
+  }
+
+  ul {
+    width: 100%;
+    margin: 0;
+  }
+
+  a {
+    font-family: "alternate-gothic-no-1-d",sans-serif;
+    font-size: 1.3em;
+  }
+
+  li {
+    list-style-type: none;
+    margin: 0;
+    margin: 0 1em 1em 0;
+    .border;
+    max-width: 300px;
+    display: inline-block;
+  }
+
+  li:hover {
+    background: @blue-light;
+  }
+
+}
+
+
+
+
+//=====================================================================THIS CONTROLS THE WEBFORM
+.form-actions {
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+input#edit-submit {
+  padding: 10px 20px !important;
+  border: 2px solid @gray-light;
+  background: @blue;
+  font-size: 1.5em;
+  color: @white;
+}
+
+input#edit-submit:hover {
+  background: @blue+#111;
+}
+//=====================================================================THIS CONTROLS THE ERRORS AND MESSAGES
+
+.status {
+  border: none !important;
+  font-size: 0.7em;
+  .margin-bottom;
+}
+
+.form-item textarea.error, .form-item input.error {
+  border: 2px solid @pink;
+}
+
+.messages {
+  display: block !important;
+  background-color: @white !important;
+  padding: 6px 5px 5px 30px !important;
+  background-position: 0px 5px !important;
+  border: 1px solid @pink !important;
+
+  ul {margin: 0 !important;}
+}
+
+.error {
+ 
+  li {
+    color: @pink;
+    font-size: 0.8em;
+    list-style-type: none;
+  }
+}
+
+#footer {
+  clear: both;
+}
+
+//HIDE STUFF HERE
+#skip, .title, .breadcrumb {display:none;}
+
+
+/* ==|== media queries ======================================================
+   EXAMPLE Media Query for Responsive Design.
+   This example overrides the primary ('mobile first') styles
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (max-width: 860px) {
+
+}
+
